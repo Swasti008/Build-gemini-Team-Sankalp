@@ -130,8 +130,8 @@ Nirogya delivers a unified healthcare ecosystem offering:
 
 ## **Deployment and Resources**
 
-- [Main GitHub Repository](https://github.com/Merlinkk/mumbai-hacks-2025) – Source code for all modules  
-- [Demo Video](https://youtu.be/enYUFBiNR_o) – Project walkthrough  
+- [Main GitHub Repository](https://github.com/Swasti008/Build-gemini-Team-Sankalp) – Source code for all modules  
+- [Demo Video]([https://youtu.be/enYUFBiNR_o](https://www.youtube.com/watch?v=_v_x0OHuD6o)) – Project walkthrough  
 - Backend hosted on Render (free tier), may cause minor cold-start delays  
 - Modules are interlinked via REST APIs and Kafka streams for status updates  
 - Repository includes:  
