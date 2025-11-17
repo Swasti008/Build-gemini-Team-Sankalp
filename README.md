@@ -84,7 +84,6 @@ Nirogya delivers a unified healthcare ecosystem offering:
   - Mobile: 9882182880  
   - OTP: any 6 digits  
 - Explore multilingual options and AI capabilities.  
-- Source code: [GitHub Repository](https://github.com/Merlinkk/mumbai-hacks-2025)
 
 ---
 
@@ -130,8 +129,7 @@ Nirogya delivers a unified healthcare ecosystem offering:
 
 ## **Deployment and Resources**
 
-- [Main GitHub Repository](https://github.com/Swasti008/Build-gemini-Team-Sankalp) – Source code for all modules  (main)
-- [Demo Video]([https://youtu.be/enYUFBiNR_o](https://www.youtube.com/watch?v=_v_x0OHuD6o)) – Project youtube walkthrough  
+- [Demo Video](https://www.youtube.com/watch?v=_v_x0OHuD6o) – Project youtube walkthrough  
 - Backend hosted on Render (free tier), may cause minor cold-start delays  
 - Modules are interlinked via REST APIs and Kafka streams for status updates  
 - Repository includes:  
